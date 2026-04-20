@@ -1,5 +1,12 @@
 
-body{
+header{
     display: flex;
-    flex-direction: column;
+    justify-content: space-between;
+}
+header ul{
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    padding: 0;
+    margin: 0;
 }
